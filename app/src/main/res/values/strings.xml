@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Simulator Santander</string>
+    <string name="simular">Botão de simulação de partidas</string>
+    <string name="txt_home_team">Imagem do time mandante</string>
+    <string name="txt_home_team_name">Home Team</string>
+    <string name="txt_home_team_score">99</string>
+    <string name="txt_away_team">Imagem do time visitante</string>
+    <string name="txt_away_team_name">Away Team</string>
+    <string name="txt_away_team_score">99</string>
+    <string name="txt_versus">X</string>
 </resources>
