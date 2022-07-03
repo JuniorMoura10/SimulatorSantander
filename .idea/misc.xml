@@ -5,7 +5,7 @@
       <map>
         <entry key="..\:/Users/Junior/AndroidStudioProjects/SimulatorSportheca/app/src/main/res/drawable/ic_simulate.xml" value="0.1945" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/SimulatorSportheca/app/src/main/res/layout/activity_detail.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/Junior/AndroidStudioProjects/SimulatorSportheca/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Junior/AndroidStudioProjects/SimulatorSportheca/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/SimulatorSportheca/app/src/main/res/layout/match_item.xml" value="0.33" />
         <entry key="..\:/Users/Junior/AndroidStudioProjects/SimulatorSportheca/app/src/main/res/layout/match_layout.xml" value="0.17074275362318841" />
       </map>
@@ -20,7 +20,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.33" />
+        <option name="scale" value="0.22" />
       </ProjectState>
     </option>
   </component>

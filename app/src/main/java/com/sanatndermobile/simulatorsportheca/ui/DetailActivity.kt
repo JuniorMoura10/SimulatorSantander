@@ -1,4 +1,4 @@
-package com.sanatndermobile.simulatorsportheca
+package com.sanatndermobile.simulatorsportheca.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

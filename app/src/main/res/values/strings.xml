@@ -8,4 +8,5 @@
     <string name="txt_away_team_name">Away Team</string>
     <string name="txt_away_team_score">99</string>
     <string name="txt_versus">X</string>
+    <string name="errorApi">Unexpected Error</string>
 </resources>
